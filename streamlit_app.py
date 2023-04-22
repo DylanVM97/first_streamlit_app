@@ -61,7 +61,7 @@ if streamlit.button("Get fruit load list"):
 
 
 #dont run anything
-streamlit.stop()
+#streamlit.stop()
 
 # Allow the end user to add a fruit to the list
 def insert_row_snowflake(new_fruit):
